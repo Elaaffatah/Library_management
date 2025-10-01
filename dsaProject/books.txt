@@ -1,0 +1,7 @@
+"Clean Code" by Robert C. Martin - 3
+"Introduction to Programming with C" by Y. Daniel Liang - 6
+"Python Crash Course" by Eric Matthes - 5
+"The Pragmatic Programmer" by Andrew Hunt and David Thomas - 4
+Algorithms - 4
+Data Structures - 2
+Database Management - 2

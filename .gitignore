@@ -1,0 +1,11 @@
+# Ignore compiled files
+*.class
+
+# Ignore IntelliJ project files
+.idea/
+*.iml
+out/
+
+# Ignore macOS system files
+.DS_Store
+__MACOSX/
