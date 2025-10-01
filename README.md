@@ -15,6 +15,7 @@ This project allows users to sign up, log in, and manage library books with admi
 ---
 
 ## 📂 Project Structure
+```
 LibraryManagementSystem/
 │── src/
 │ ├── Admin.java
@@ -28,6 +29,7 @@ LibraryManagementSystem/
 │── books.txt # stores available books
 │── users.txt # stores user credentials
 │── .gitignore
+```
 
 ## ⚙️ How to Run
 1. Clone the repository:
